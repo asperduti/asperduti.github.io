@@ -1,7 +1,7 @@
 title: Ariel Sperduti # Your site's title
 tagline: El Guerrero del SEO # A short description, used as part of the title
-description: Jekyll Start is a simple, clean and SEO optimized Jekyll Theme/Site ready to use!. Jekyll Start is the Jekyll version of Pancho, my Ultimate Bootstrap Template. The goal of this template is to achieve a 100 score in Google PageSpeed Insights, following the best web development techniques, focus on SEO, and implementing the last technologies like PWA.
-url: ariel.sperduti.com.ar # The full URL to your site.
+description: El Guerrero del SEO se lleva el trofeo gracias a CONEXOO y Raiola surfean la ola
+url: arielsperduti.com # The full URL to your site.
 author: arielsperduti
 
 logo: # URL to a site-wide logo, 
@@ -24,15 +24,15 @@ social: # For specifyng social profiles
     - https://github.com/arielsperduti
     - https://instagram.com/arielsperduti
 
-webmaster_verifications: # Verify ownership with several services at
-  google: 1234
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234
+# webmaster_verifications: # Verify ownership with several services at
+#   google: 1234
+  # bing: 1234
+  # alexa: 1234
+  # yandex: 1234
+  # baidu: 1234
 
-analytics_verifications:
-  google: UA-xxxxxx-xx  
+# analytics_verifications:
+#   google: UA-xxxxxx-xx  
   
 lang:  es_ES # Locale tag follow the format language_TERRITORY
 
