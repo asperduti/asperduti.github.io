@@ -1,7 +1,11 @@
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white shadow fixed-top">
     <a class="navbar-brand" href="#">
-        {% include picture.html img="/assets/images/favicon.png" class="" alt="Logo" height="45" %}
+        {% picture assets/images/favicon.png
+            --alt Logo
+            --title Logo
+            --img height="45"
+        %}
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
         aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
